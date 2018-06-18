@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Learn JavaScript With Zonayed",
+    "sdkVersion": "25.0.0",
+    "icon": "./assets/nblogo.png",
+    "slug": "learn-javascript-with-zonayed",
+    "loading": {
+      "hideExponentText": true,
+      "backgroundImage": "./assets/splashscreen.png"
+    },
+    "android": {
+      "package": "me.zonayed.learn.js.with.zonayed",
+      "permissions": [
+        ""
+      ]
+    },
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "packagerOpts": {
+      "assetExts": [
+        "ttf"
+      ]
+    },
+    "androidStatusBarColor": "#f0db4f",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#f0db4f"
+    }
+  }
+}
